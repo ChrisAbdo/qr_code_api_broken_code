@@ -5,7 +5,7 @@ from app.services.qr_service import create_directory
 from app.utils.common import setup_logging
 
 # This function sets up logging based on the configuration specified in your logging configuration file.
-# It's important for monitoring and debugging.
+# It's important for monitoring and debugging..
 setup_logging()
 
 # This ensures that the directory for storing QR codes exists when the application starts.
